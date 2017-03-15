@@ -1,0 +1,301 @@
+{
+  "id": "33834784375375",
+  "title": "The Shawshank Redemption",
+  "year": 1994,
+  "identifiers": {
+    "imdb": "tt0111161",
+    "wikipedia": "The_Shawshank_Redemption",
+    "rotten-tomatoes" : "shawshank_redemption",
+    "metacritic": "the-shawshank-redemption",
+    "themoviedb" : "278-the-shawshank-redemption",
+    "tcm": "20338",
+    "bomojo": "shawshankredemption",
+    "thenumbers": "Shawshank-Redemption-The",
+    "opus": "",
+    "filmindex": "",
+    "congress": "jots.200025976",
+    "afi": "55199",
+    "netflix": "",
+    "imcdb": "111161",
+    "soundnet": "the-shawshank-redemption",
+    "facebook": "ShawshankRedemptionFilm"
+  },
+  "aka": {
+    "FR": {
+      "lang": "FR",
+      "title": "La Blah Blah"
+    }
+  },
+  "status": "released",
+  "lang": "EN",
+  "length": 8520,
+  "scenes": 299,
+  "genres": [
+    "crime", "drama"
+  ],
+  "literary": {
+    "categories": ["historical-fiction"],
+    "protagonist": "Andy Dufresne, a banker wrongly imprisoned for the murder of his wife.",
+    "antagonist": "Warden Norton",
+    "theme": "You can find self-worth in your most hopeless hours.",
+    "question": "Will Andy break free of Shawshank?",
+    "conflict": "Andy Dufresne vs. Warden Norton",
+    "ending": "Andy escapes Shawshank to Mexico with the Warden’s dirty money",
+    "arc": "Andy goes from a Shawshank inmate, guilt-ridden over his wife’s death, to a free man able to start anew"
+  },
+  "copyright": {
+    "id": "PA714744",
+    "date": "1994-12-5",
+    "owner": {
+      "id": "83747475",
+      "title": "Castle Rock Entertainment"
+    }
+  },
+  "keywords": [
+    "Surprise Twist", "Prison", "Voiceover/Narration", "Life on the Outside", "Wrongfully Convicted", "Cruel Wardens or Prison Guards"
+  ],
+  "tags": [
+    "shawshank", "andy-dufresne"
+  ],
+  "topics": [
+    "prison", "injustice"
+  ],
+  "themes": [
+    "self-worth", "hopelessness", "integrity", "freedom", "fraternal-love"
+  ],
+  "moods" : [
+    "challenging", "tragic", "powerful"
+  ],
+  "production": {
+    "budget": 25000000,
+    "countries": ["US"],
+    "companies": "Castle Rock Entertainment",
+    "method": "Live Action"
+  },
+  "technical": {
+    "color": "Technicolor",
+    "sound": "Dolby Digital",
+    "cameras": [
+      "Arriflex 35 BL4S", "Zeiss Standard Speed", "Zeiss Standard Super Speed", "Moviecam Compact"
+    ],
+    "lab": "DuArt Film Laboratories Inc., New York, USA (dailies) / Technicolor, Hollywood (CA), USA (prints)",
+    "negative": "35 mm (Eastman EXR 100T 5248, EXR 200T 5293)",
+    "process": "spherical",
+    "format": "35mm",
+    "aspect": "1.85 : 1"
+  },
+  "continuity": {
+    "season": false,
+    "episode": false
+  },
+  "taglines": [
+    {
+      "lang": "EN",
+      "text": "Fear can hold you prisoner. Hope can set you free."
+    }
+  ],
+  "synopses": [
+    {
+      "lang": "EN",
+      "text": "Wrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover. Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convict Redding (Morgan Freeman)"
+    },
+    {
+      "lang": "EN",
+      "text": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "lang": "EN",
+      "text": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
+    }
+  ],
+  "plot": "",
+  "trailers": [
+    {
+      "src": "youtube",
+      "id": "6hB3S9bIaco",
+      "length": 130
+    }
+  ],
+  "scripts": [
+    {
+      "version": "draft",
+      "author": "Frank Darabont",
+      "year": 1994,
+      "copyright": "Frank Darabont",
+      "pages" : 126,
+      "urls": [
+        "http://www.dailyscript.com/scripts/shawshank.html",
+        "http://www.imsdb.com/scripts/Shawshank-Redemption,-The.html"
+      ]
+    }
+  ],
+  "festivals": [
+
+  ],
+  "producers": [
+
+  ],
+  "writers": [
+    {
+      "id": "12345",
+      "type": "novel",
+      "original" : "Rita Hayworth and Shawshank Redemption",
+      "first" : "Stephen",
+      "last" : "King"
+    },
+    {
+      "id": "12345",
+      "type": "screenplay",
+      "first" : "Frank",
+      "last": "Darabont"
+    }
+  ],
+  "directors": [
+    {
+      "id": "12345",
+      "first" : "Frank",
+      "last": "Darabont"
+    }
+  ],
+  "stars": [
+    {
+      "id": "123345",
+      "first": "Natalie",
+      "last": "Portman"
+    }
+  ],
+  "certifications": {
+    "US": "R"
+  },
+  "releases" : [
+    {
+      "SK": [
+        {
+          "date" : "1995-02-04",
+          "window": "theatrical",
+          "as": "The Showshank Redemption",
+          "distributors": [
+            {
+              "id": "283874",
+              "title": "Columbia Pictures"
+            }
+          ]
+        }
+      ],
+      "US": [
+        {
+          "date" : "1994-10-14",
+          "window": "theatrical",
+          "distributors": [
+            {
+              "id": 283874,
+              "title": "Columbia Pictures"
+            }
+          ]
+        },
+        {
+          "date" : "1994-09-23",
+          "window": "theatrical",
+          "as" : "Shawshank Redemption, The",
+          "distributors": [
+            {
+              "id": 283874,
+              "title": "Sony Pictures"
+            }
+          ]
+        },
+        {
+          "date" : "1999-12-21",
+          "window": "video",
+          "distributors": [
+            {
+              "id": 283874,
+              "title": "Castle Rock Video"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "awards" : [
+    {
+      "country": "US",
+      "group": "Academy Awards, USA",
+      "year": 1995,
+      "type": "nomination",
+      "title": "Best Picture",
+      "specified" : "Niki Marvin"
+    }
+  ],
+  "performance": {
+    "theatrical": {
+      "total": 28307092,
+      "domestic": 28241469,
+      "international": 65623,
+      "admissions": {
+        "BE": 82890,
+        "FR": 163594,
+        "DE": 410811,
+        "ES": 1245604
+      },
+      "countries": [
+        {
+          "iso": "SK",
+          "opening": 0,
+          "theaters": 0
+        }
+      ]
+    }
+  },
+  "posters" : {
+    "small": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX146_CR0,0,146,215_.jpg",
+    "medium": "",
+    "large": ""
+  },
+  "cast" : {
+
+  },
+  "credits": [
+
+  ],
+  "soundtrack": [
+    {
+      "id": "2832930404",
+      "title": "If I Didn't Care",
+      "description": "",
+      "artist": {
+        "id": "306606",
+        "title": "Jack Lawrence"
+      },
+      "writer": {
+        "title": ""
+      },
+      "performer": {
+        "id": "393948",
+        "title": "The Ink Spots"
+      },
+      "courtesy": {
+        "id": "049866",
+        "entity": "MCA Records"
+      }
+    }
+  ],
+  "locations" : [
+    {
+      "id": "3832842",
+      "title": "Mansfield Reformatory",
+      "types": ["prison"],
+      "description": "The prison that is used in the large panning scene, and used for the wardens office.",
+      "geography": {
+        "address": "100 Reformatory Road",
+        "city": "Mansfield",
+        "state": "OH",
+        "country": "US",
+        "coords": {
+          "lat": 40.784214,
+          "lng": -82.502484
+        }
+      }
+    }
+  ]
+}
